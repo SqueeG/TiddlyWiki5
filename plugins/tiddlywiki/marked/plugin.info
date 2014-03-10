@@ -1,0 +1,5 @@
+{
+	"title": "$:/plugins/tiddlywiki/marked",
+	"description": "Markdown plugin wrapping marked-js",
+	"author": "JeremyRuston - edited by codeGlaze"
+}
