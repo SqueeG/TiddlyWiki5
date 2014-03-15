@@ -1,0 +1,14 @@
+{
+	"tiddlers": [
+		{
+			"file": "textile.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/tiddlywiki/textile/textile.js",
+				"module-type": "library",
+				"prefix": "var textile;if($tw.browser){\n",
+				"suffix": "}\nexports.textile = textile;\n"
+			}
+		}
+	]
+}
