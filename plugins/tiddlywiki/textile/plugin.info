@@ -1,0 +1,5 @@
+{
+	"title": "$:/plugins/tiddlywiki/textile",
+	"description": "Markdown plugin wrapping textile-js",
+	"author": "codeGlaze"
+}
